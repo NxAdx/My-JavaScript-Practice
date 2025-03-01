@@ -5,4 +5,4 @@ const msg = () => {
 }
   
   
-console.log(msg())
+console.log(msg())//Hello Adx
